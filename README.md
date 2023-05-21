@@ -5,6 +5,5 @@
 <code>👀 [Open-source contribution](CONTRIBUTION.md)</code><br>
 <code>🧑‍💻 Languages: JavaScript, C, Python</code>
 <code>📦 Tech stack: node.js</code>
-<code>🪙 [Rates](RATES.md)</code><br>
 <code>💬 telegram: [@thebladehit](https://t.me/TheBladeHit)</code>
 <code>📫 [boqdanyarmolka@gmail.com](mailto:boqdanyarmolka@gmail.com)</code>
