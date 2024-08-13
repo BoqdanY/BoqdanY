@@ -5,7 +5,6 @@
 <code>🧻 [Projects](PROJECTS.md)</code>
 <code>👀 [Open-source contribution](CONTRIBUTION.md)</code><br>
 <code>🧑‍💻 Languages: Typescript, JavaScript, C, Python, Kotlin, Go, Swift</code>
-
-<code>📦 Tech stack: node.js, nest js, express js, react, react native</code>
 <code>💬 telegram: [@thebladehit](https://t.me/TheBladeHit)</code>
 <code>📫 [boqdanyarmolka@gmail.com](mailto:boqdanyarmolka@gmail.com)</code>
+<code>📦 Tech stack: node.js, nest js, express js, react, react native</code>
